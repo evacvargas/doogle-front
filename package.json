@@ -17,7 +17,7 @@
     "styled-components": "^5.3.1",
     "web-vitals": "^0.2.4"
   },
-  "DevDependencies": {
+  "devDependencies": {
     "redux-devtools-extension": "^2.13.2"
   },
   "scripts": {
